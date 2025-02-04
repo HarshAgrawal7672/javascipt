@@ -16,6 +16,8 @@ console.log(gamename.length);
 console.log(gamename.toUpperCase());
 console.log(gamename.trim());
 
+// use mdn for learning the function for string
+
 
 
 
